@@ -1,16 +1,10 @@
 ### Hi there I'm Onesimus 👋🏿☕🛩️💻
 
 <!--
-**sarpong4/sarpong4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sarpong4/sarpong4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently part of some training bootcamps - I am taking part in CS50W, CS50AI and i4G ZuriTraining(2021), in school 🏫 and hope to find inspiration for many amazing projects and collaborate with awesome programmers from all over the world.
+- 🌱 I’m currently learning NodeJs, PHP, Python, Java and JavaScript.
+- 👯 I’m looking to collaborate on web and software projects in the near future, to contribute to the opwn source community.
 - 📫 How to reach me: Twitter: <twitter.com/Onesimus_Wiafe>; 
-- 😄 Pronouns: 
 - ⚡ Fun fact: I been thinking of going back in time lately, but one of the things I didn't think of changing was my journey in Tech so far...
--->
