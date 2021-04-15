@@ -1,4 +1,4 @@
-### Hi there I'm Onesimus 👋🏿☕🛩️💻
+### Hi, Onesimus here!!👋🏿☕🛩️💻
 
 <!--
 **sarpong4/sarpong4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
