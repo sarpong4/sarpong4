@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on web and software projects in the near future, to contribute to the opwn source community.
 - 📫 How to reach me: Twitter: <twitter.com/Onesimus_Wiafe>; 
 - ⚡ Fun fact: I been thinking of going back in time lately, but one of the things I didn't think of changing was my journey in Tech so far...
--## _I want to Know EVERYTHING!!!_
+### _I want to Know EVERYTHING!!!_
