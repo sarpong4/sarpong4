@@ -1,12 +1,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarpong4&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarpong4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/sarpong4/google-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarpong4&repo=google-clone&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarpong4&repo=google-clone&theme=radical" />
+<a href="https://github.com/sarpong4/todo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarpong4&repo=todo&theme=radical" />
 </a>
 
 
@@ -21,3 +19,6 @@
 - 📫 How to reach me: [Twitter](twitter.com/Onesimus_Wiafe); 
 - ⚡ Fun fact: I been thinking of going back in time lately, but one of the things I didn't think of changing was my journey in Tech so far...
 ### _I want to Know EVERYTHING!!!_
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarpong4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
