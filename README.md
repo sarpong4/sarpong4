@@ -1,13 +1,13 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarpong4&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarpong4&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=sarpong4&theme=dracula" /></a> -->
 
-<a href="https://github.com/sarpong4/google-clone">
+<!-- <a href="https://github.com/sarpong4/google-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarpong4&repo=google-clone&theme=radical" />
 </a>
 <a href="https://github.com/sarpong4/todo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarpong4&repo=todo&theme=radical" />
-</a>
+</a> -->
 
 
 ## Hi, Onesimus here!!👋🏿☕🛩️💻
