@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarpong4&label=Profile%20views&color=E0245E&style=flat" alt="Sarpong4" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarpong4&label=Profile%20views&style=flat" alt="Sarpong4" /> </p>
 
 <!-- <a href="https://github.com/sarpong4/google-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarpong4&repo=google-clone&theme=radical" />
@@ -26,6 +26,3 @@
 <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=sarpong4&theme=dracula" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarpong4&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![](https://komarev.com/ghpvc/?username=sarpong4)
