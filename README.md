@@ -1,6 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarpong4&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarpong4&label=Profile%20views&color=E0245E&style=flat" alt="CHR-onicles" /> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarpong4&count_private=true&show_icons=true&theme=synthwave&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=sarpong4&theme=dracula" /></a> -->
+<a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=sarpong4&theme=dracula" /></a>
 
 <!-- <a href="https://github.com/sarpong4/google-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarpong4&repo=google-clone&theme=radical" />
